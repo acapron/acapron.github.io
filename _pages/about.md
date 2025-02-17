@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 permalink: /
 excerpt: "IO and Health Economist"
 title: "Welcome!"
