@@ -9,8 +9,6 @@ header:
   og_image: /assets/images/full_shot.png
 ---
 
-Welcome to my personal website!
-
 I am a fourth-year doctoral student in economics with interests in health economics, empirical industrial organization, and other topics in applied microeconomics.
 
 You can find my CV here. I can be reached at acapron@unc.edu.
