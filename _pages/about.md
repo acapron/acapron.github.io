@@ -5,6 +5,8 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+header:
+  og_image: /assets/images/full_shot.png
 ---
 
 Welcome to my personal website!
