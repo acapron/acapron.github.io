@@ -7,7 +7,7 @@ author_profile: true
 
 # Instructor:
 
-## Econ445: Industrial Organization (UNC-CH; Fall 2024) [syllabus](/files/capron_econ445_syllabus.pdf)
+## Econ445: Industrial Organization (UNC-CH; Fall 2024) [[syllabus]](/files/capron_econ445_syllabus.pdf)
 
 # Teaching Assistant:
 
