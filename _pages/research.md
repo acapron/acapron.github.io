@@ -16,7 +16,7 @@ author_profile: true
 </summary>
   
 
-<ul><span style="font-variant: small-caps;">ABSTRACT:</span> Football scores are an imperfect measure of a team's ability, and consequently exaggerate differences in abilities. Those teams that perform the best and the worst are not really so far from average in their ability; thus their future performances regress to the mean. Betting data indicate that gamblers do not fully account for this regression.</ul>
+<ul><span style="font-variant: small-caps;">Abstract:</span> Football scores are an imperfect measure of a team's ability, and consequently exaggerate differences in abilities. Those teams that perform the best and the worst are not really so far from average in their ability; thus their future performances regress to the mean. Betting data indicate that gamblers do not fully account for this regression.</ul>
  
 </details>
 
@@ -34,7 +34,7 @@ author_profile: true
 </summary>
   
 
-<ul><span style="font-variant: small-caps;">ABSTRACT:</span> Why do firms tend to hire CEOs from within rather than externally? And why do
+<ul><span style="font-variant: small-caps;">Abstract:</span> Why do firms tend to hire CEOs from within rather than externally? And why do
 external hires increase when firm performance is poor? We answer these questions using a dynamic selection model of CEO hiring and turnover, weighing the relative importance of various
 mechanisms suggested in the literature including differences in average quality, uncertainty about
 CEO quality, costs of firing, preference for internal hires, and preference for “rocking the boat”
