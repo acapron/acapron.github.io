@@ -17,6 +17,8 @@ author_profile: true
   
 
 <ul><span style="font-variant: small-caps;">Abstract:</span> Football scores are an imperfect measure of a team's ability, and consequently exaggerate differences in abilities. Those teams that perform the best and the worst are not really so far from average in their ability; thus their future performances regress to the mean. Betting data indicate that gamblers do not fully account for this regression.</ul>
+
+
  
 </details>
 
@@ -48,6 +50,8 @@ Long-tenured insider CEOs thus tend to be “good” while outsiders tend to be 
 the higher variation in quality faced by firms when hiring externally increases firms’ willingness
 to hire outsiders when performance is poor, in hopes of drawing an exceptional outsider from the
 right tail of the distribution.</ul>
+
+<img src="/files/ceos1.png" alt="">
  
 </details>
 
