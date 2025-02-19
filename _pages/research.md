@@ -51,7 +51,7 @@ the higher variation in quality faced by firms when hiring externally increases 
 to hire outsiders when performance is poor, in hopes of drawing an exceptional outsider from the
 right tail of the distribution.</ul>
 
-<img src="/files/ceos1.png" alt="">
+<img src="/files/ceos1.png" style="width: 35%; height: auto;" alt="">
  
 </details>
 
