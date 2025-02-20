@@ -11,6 +11,20 @@ Most of my personal time is spent either playing soccer or looking after this gu
 <img src="/files/beau2.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
 <img src="/files/beau3.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
 
-<h2><b>Some Informal Academic Presentations and Workshops:</b></h2>
+<h2><b>Some (Semi-formal) Academic Workshop Presentations:</b></h2>
 
-**WORKSHOP 1** "Paper Title" [link]
+**IO Graduate Student & Faculty Reading Group (Feb. 2025):** "Bidding for Talent: A Test of Conduct in a High-Wage Labor Market" (Roussille and Scuderi, 2023)[[slides]](/files/bidding_for_talent_pres.pdf)
+
+**IO Graduate Student & Faculty Reading Group (Dec. 2024):** "Unobserved Heterogeneity, State Dependence, and Health Plan Choices" (Pakes et. al., 2022)[[slides]](/files/pakes_et_al_pres.pdf)
+
+**IO Graduate Student & Faculty Reading Group (Feb. 2025):** "Unobserved Heterogeneity, State Dependence, and Health Plan Choices" (Pakes et. al., 2022)[[slides]](/files/pakes_et_al_pres.pdf)
+
+**IO Graduate Student & Faculty Reading Group (Feb. 2025):** "Unobserved Heterogeneity, State Dependence, and Health Plan Choices" (Pakes et. al., 2022)[[slides]](/files/pakes_et_al_pres.pdf)
+
+**IO Graduate Student & Faculty Reading Group (Feb. 2025):** "Unobserved Heterogeneity, State Dependence, and Health Plan Choices" (Pakes et. al., 2022)[[slides]](/files/pakes_et_al_pres.pdf)
+
+**IO Graduate Student & Faculty Reading Group (Feb. 2025):** "Unobserved Heterogeneity, State Dependence, and Health Plan Choices" (Pakes et. al., 2022)[[slides]](/files/pakes_et_al_pres.pdf)
+
+**IO Graduate Student & Faculty Reading Group (Feb. 2025):** "Unobserved Heterogeneity, State Dependence, and Health Plan Choices" (Pakes et. al., 2022)[[slides]](/files/pakes_et_al_pres.pdf)
+
+**IO Graduate Student & Faculty Reading Group (Feb. 2025):** "Unobserved Heterogeneity, State Dependence, and Health Plan Choices" (Pakes et. al., 2022)[[slides]](/files/pakes_et_al_pres.pdf)
