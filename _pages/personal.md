@@ -5,8 +5,6 @@ permalink: /personal/
 author_profile: true
 ---
 
-<h2><b>Personal:</b></h2>
-
 Most of my personal time is spent either playing soccer or looking after this guy: 
 
 <img src="/files/beau1.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
