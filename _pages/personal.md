@@ -9,7 +9,9 @@ author_profile: true
 
 Most of my personal time is spent either playing soccer or looking after this guy: 
 
-<img src="/files/dog1.png" style="width: 35%; height: auto;" alt=""><img src="/files/dog2.png" style="width: 35%; height: auto;" alt=""><img src="/files/dog3.png" style="width: 35%; height: auto;" alt="">
+<img src="/files/beau1.png" style="width: 35%; height: auto;" alt="">
+<img src="/files/beau2.png" style="width: 35%; height: auto;" alt="">
+<img src="/files/beau3.png" style="width: 35%; height: auto;" alt="">
 
 <h2><b>Some Informal Academic Presentations and Workshops:</b></h2>
 
