@@ -14,7 +14,7 @@ description              : &description "Personal Website"
 url                      : https://acapron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "acapron/acapron.github.io"
-teaser                   : "/assets/images/full_shot.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "assets/images/full_shot.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 masthead_title           : "Andrew Capron" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Capron"
-  avatar           : "/assets/images/full_shot.png" # "/assets/images/full_shot.png"
+  avatar           : "assets/images/full_shot.png" # "/assets/images/full_shot.png"
   bio              : "Economics Ph.D. Candidate"
   employer         : "UNC - Chapel Hill"
   location         : "Durham, NC"
