@@ -58,5 +58,25 @@ right tail of the distribution.</ul>
 <p style="margin-bottom: 1rem;"></p>
 
 
-<h2><b>Research topics in progress:</b></h2>
-Hospital-at-home (HaH) care; noncompete agreements and labor market frictions; health care price transparency; marginal emissions on electrical grids; rural hospital closures; employer-sponsored health insurance bargaining.
+<h2><b>Works in Progress:</b></h2>
+<details>
+<summary>
+
+<b>"The Noncompete Wage Premium"</b> with Brian Albrecht (ICLE), Daniel Gilman (ICLE), and Noah Lyman (Warwick).
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+<b>"Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach"</b> with August Bruno (UNC), Valentin Verdier (UNC), and Andrew Yates (UNC).
+
+</summary>
+</details>
+
+<p style="margin-bottom: 1rem;"></p>
+
+
+<h2><b>Research Topics in Progress:</b></h2>
+Hospital-at-home (HaH) care; health care price transparency; employer-sponsored health insurance bargaining.
