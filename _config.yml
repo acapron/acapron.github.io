@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Capron"
-  avatar           : "profile.png"
+  avatar           : "/assets/images/full_shot.png" # "profile.png"
   bio              : "Economics Ph.D. Candidate"
   employer         : "UNC - Chapel Hill"
   location         : "Durham, NC"
