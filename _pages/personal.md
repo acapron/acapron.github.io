@@ -1,17 +1,11 @@
 ---
 layout: archive
-title: "Personal"
+title: ""
 permalink: /personal/
 author_profile: true
 ---
 
-Most of my personal time is spent either playing soccer or looking after this guy: 
-
-<img src="/files/beau1.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
-<img src="/files/beau2.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
-<img src="/files/beau3.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
-
-<h2><b>Some (Semi-formal) Academic Workshop Presentations:</b></h2>
+<h2><b>Some Semi-formal Workshop and Seminar Presentations:</b></h2>
 
 **UNC IO Grad Student & Faculty Reading Group (Feb. 2025):** "Bidding for Talent: A Test of Conduct in a High-Wage Labor Market" (Roussille and Scuderi, 2023) [[slides]](/files/bidding_for_talent_pres.pdf)
 
@@ -28,5 +22,12 @@ Most of my personal time is spent either playing soccer or looking after this gu
 **UNC Health Economics Course Lecture (Nov. 2022):** "Voluntary Regulation: Evidence From Medicare Payment Reform" (Einav et al., 2020) [[slides]](/files/einav_et_al_pres.pdf)
 
 **UNC JMP Reading Group (Jul. 2022):** "When Should There Be Vertical Choice in Health Insurance Markets?" (Marone and Sabety, 2020) [[slides]](/files/jmp_reading_grp1_pres.pdf)
+
+
+Most of my personal time is spent either playing soccer or looking after this guy: 
+
+<img src="/files/beau1.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
+<img src="/files/beau2.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
+<img src="/files/beau3.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
 
 
