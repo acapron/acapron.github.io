@@ -9,12 +9,16 @@ author_profile: true
 
 **Econ445:** Industrial Organization (UNC-CH; Fall 2024) [[syllabus]](/files/capron_econ445_syllabus.pdf)
 
-## Teaching Assistant:
+## Undergraduate Teaching Assistant:
 
 **Econ101:** Introduction to Economics (UNC-CH; Fall 2022)
 
 **Econ410:** Intermediate Microeconomics (UNC-CH; Spring 2023, Summer 2023)
 
-**Econ445:** Industrial Organization (UNC-CH; Summer 2024)
+**Econ445:** Industrial Organization (UNC-CH; Summer 2024, Fall 2025)
 
 **Econ470:** Econometrics (UNC-CH; Spring 2025)
+
+## Graduate Teaching Assistant:
+
+**Econ847:** Empirical Industrial Organization I (UNC-CH; Fall 2025)
