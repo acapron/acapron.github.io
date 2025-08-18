@@ -59,7 +59,7 @@ performance, and that firm size magnifies this informational advantage.</ul>
 <details>
 <summary>
 
-<b>"The Noncompete Wage Premium"</b> with Brian Albrecht (ICLE), Daniel Gilman (ICLE), and Noah Lyman (Warwick).
+<b>"The Noncompete Wage Premium"</b> with Brian Albrecht (ICLE) and Daniel Gilman (ICLE).
 
 </summary>
 </details>
