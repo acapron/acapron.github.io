@@ -6,8 +6,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: '<a href="/files/Andrew%20Capron%20CV.pdf" target="_blank" rel="noopener">CV</a>'
-    url: ""  
+  - title: "CV"
+    url: /files/Andrew%20Capron%20CV.pdf
+    target: _blank
 
   - title: "Personal"
     url: /personal/    
