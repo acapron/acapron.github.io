@@ -31,7 +31,7 @@ author_profile: true
 
 <summary>
 
-<b><a href="/files/CHHL_InsiderCEOs.pdf">"Insider CEOs: Lucky or Good?"</a></b> with Barton Hamilton (WashU), Andrés Hincapié (UNC), and Noah Lyman (Warwick), <i>submitted</i>.
+<b><a href="/files/CHHL_InsiderCEOs.pdf" target="_blank" rel="noopener noreferrer">"Insider CEOs: Lucky or Good?"</a></b> with Barton Hamilton (WashU), Andrés Hincapié (UNC), and Noah Lyman (Warwick), <i>submitted</i>.
 
 </summary>
   
