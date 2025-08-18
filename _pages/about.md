@@ -12,6 +12,6 @@ redirect_from:
 
 I am a fifth-year doctoral student in economics at the University of North Carolina - Chapel Hill with interests in health economics, empirical industrial organization, and other topics in applied microeconomics.
 
-You can find my CV [here](/files/Andrew Capron CV.pdf). I can be reached at [acapron@unc.edu](mailto:acapron@unc.edu).
+You can find my CV [here](/files/Andrew Capron CV.pdf){:target="_blank"}. I can be reached at [acapron@unc.edu](mailto:acapron@unc.edu).
 
 
