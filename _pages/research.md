@@ -36,20 +36,17 @@ author_profile: true
 </summary>
   
 
-<ul><span style="font-variant: small-caps;">Abstract:</span> Why do firms tend to hire CEOs from within rather than externally? And why do
-external hires increase when firm performance is poor? We answer these questions using a dynamic selection model of CEO hiring and turnover, weighing the relative importance of various
-mechanisms suggested in the literature including differences in average quality, uncertainty about
-CEO quality, costs of firing, preference for internal hires, and preference for “rocking the boat”
-(external hires) during times of crisis. Firm performance is persistent and boards learn about CEO
-quality over time, facing different levels of uncertainty when hiring internally or externally. We
-estimate the model using a matched CEO-firm panel from 1995-2019 of all publicly-traded North
-American firms. We find that the main mechanism answering these questions is information. Our
-estimates indicate that boards’ uncertainty over insider candidates is roughly half that of outsiders,
-which causes insider CEOs to become better selected and generates a significant difference in quality ex-post despite there being little ex-ante difference in quality between the two candidate pools.
-Long-tenured insider CEOs thus tend to be “good” while outsiders tend to be “lucky.” Finally,
-the higher variation in quality faced by firms when hiring externally increases firms’ willingness
-to hire outsiders when performance is poor, in hopes of drawing an exceptional outsider from the
-right tail of the distribution.</ul>
+<ul><span style="font-variant: small-caps;">Abstract:</span> Why do internally promoted CEOs outperform external hires? We answer this question
+using a dynamic selection model of CEO hiring and turnover. Firm performance is persistent
+and boards gradually learn about CEO quality, facing different uncertainty when hiring internally
+or externally. We estimate the model using a matched CEO-firm panel (1995-2019) of S&P 1500
+firms. After accounting for endogenous turnover, performance, and hiring decisions, the key mechanism
+generating the performance gap is information. Boards’ uncertainty over insider candidates
+is roughly half that of outsiders, resulting in better selected insider CEOs and a significant difference
+in executive quality ex-post, despite little ex-ante difference between insiders and outsider
+candidates. Hence, long-tenured insider CEOs tend to be “good” while outsiders tend to be
+“lucky.” Overall, our results show that information, not innate ability, explains insiders’ superior
+performance, and that firm size magnifies this informational advantage.</ul>
 
 <img src="/files/ceos1.png" style="width: 35%; height: auto;" alt="">
  
