@@ -7,7 +7,7 @@ main:
     url: /teaching/
 
   - title: "CV"
-    url: /files/Andrew Capron CV.pdf
+    url: /files/Andrew%20Capron%20CV.pdf
     target: _blank
 
   - title: "Personal"
