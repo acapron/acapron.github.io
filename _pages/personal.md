@@ -23,7 +23,7 @@ author_profile: true
 
 **UNC JMP Reading Group (Jul. 2022):** "When Should There Be Vertical Choice in Health Insurance Markets?" (Marone and Sabety, 2020) [[slides]](/files/jmp_reading_grp1_pres.pdf)
 
-
+<!--
 <h2><b>Personal</b></h2>
 
 Most of my personal time is spent either playing soccer or looking after this guy: 
@@ -31,5 +31,5 @@ Most of my personal time is spent either playing soccer or looking after this gu
 <img src="/files/beau1.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
 <img src="/files/beau2.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
 <img src="/files/beau3.png" style="height: 376px; width: auto; display: inline-block;" alt=""> 
-
+-->
 
