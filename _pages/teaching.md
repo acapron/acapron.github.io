@@ -19,6 +19,8 @@ author_profile: true
 
 **Econ470:** Econometrics (UNC-CH; Spring 2025)
 
+**Econ552:** Economics of Health Care Markets and Policy (UNC-CH; Fall 2025; Served as Graduate Research Consultant)
+
 ## Graduate Teaching Assistant:
 
 **Econ847:** Empirical Industrial Organization I (UNC-CH; Fall 2025)
