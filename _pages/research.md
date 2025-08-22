@@ -59,6 +59,14 @@ performance, and that firm size magnifies this informational advantage.</ul>
 <details>
 <summary>
 
+<b>"The Welfare Effects of Hospital-at-Home"</b> (Job Market Paper).
+
+</summary>
+</details>
+
+<details>
+<summary>
+
 <b>"The Noncompete Wage Premium"</b> with Brian Albrecht (ICLE) and Daniel Gilman (ICLE).
 
 </summary>
@@ -67,7 +75,7 @@ performance, and that firm size magnifies this informational advantage.</ul>
 <details>
 <summary>
 
-<b>"Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach"</b> with August Bruno (UNC), Valentin Verdier (UNC), and Andrew Yates (UNC).
+<b>"Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach"</b> with August Bruno (Skidmore), Valentin Verdier (UNC), and Andrew Yates (UNC).
 
 </summary>
 </details>
@@ -76,4 +84,4 @@ performance, and that firm size magnifies this informational advantage.</ul>
 
 
 <h2><b>Research Topics in Progress:</b></h2>
-Hospital-at-home (HaH) care; health care price transparency; employer-sponsored health insurance bargaining.
+Health care price transparency; employer-sponsored health insurance bargaining.
