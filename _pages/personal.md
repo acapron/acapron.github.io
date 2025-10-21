@@ -5,6 +5,8 @@ permalink: /personal/
 author_profile: true
 ---
 
+Most of my personal time is spent either playing soccer, supporting Liverpool Football Club, reading science fiction, or enjoying the outdoors with my dog, Lambeau. 
+
 <h2><b>Some Semi-formal Workshop and Seminar Presentations:</b></h2>
 
 **UNC IO Grad Student & Faculty Reading Group (Feb. 2025):** "Bidding for Talent: A Test of Conduct in a High-Wage Labor Market" (Roussille and Scuderi, 2023) [[slides]](/files/bidding_for_talent_pres.pdf)
