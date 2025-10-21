@@ -13,11 +13,11 @@ author_profile: true
 
 **Econ101:** Introduction to Economics (UNC-CH; Fall 2022)
 
-**Econ410:** Intermediate Microeconomics (UNC-CH; Spring 2023, Summer 2023)
+**Econ410:** Intermediate Microeconomics (UNC-CH; Spring 2023, Summer 2023, Summer 2025)
 
 **Econ445:** Industrial Organization (UNC-CH; Summer 2024, Fall 2025)
 
-**Econ470:** Econometrics (UNC-CH; Spring 2025)
+**Econ470:** Econometrics (UNC-CH; Spring 2025, Summer 2025)
 
 **Econ552:** Economics of Health Care Markets and Policy (UNC-CH; Fall 2025; Served as Graduate Research Consultant)
 
