@@ -35,7 +35,6 @@ author_profile: true
 
 </summary>
   
-
 <ul><span style="font-variant: small-caps;">Abstract:</span> Why do internally promoted CEOs outperform external hires? We answer this question
 using a dynamic selection model of CEO hiring and turnover. Firm performance is persistent
 and boards gradually learn about CEO quality, facing different uncertainty when hiring internally
@@ -52,22 +51,28 @@ performance, and that firm size magnifies this informational advantage.</ul>
  
 </details>
 
-<p style="margin-bottom: 1rem;"></p>
+<details>
+<summary>
 
+<b>"Dynamic Treatment Choices and Selection into RCTs: Evidence from Prostate Cancer"</b> with Barton Hamilton (WashU), Brian McManus (UNC), Juan Pantano (UHK), and Justin Trogdon (UNC-Gillings). 
+
+</summary>
+
+<ul><span style="font-variant: small-caps;">Abstract:</span> We study the design and interpretation of randomized controlled trials (RCTs) that
+compare medical treatments already in wide use. These RCTs often compare treatments that vary in their curative effectiveness and side effects, plus they can involve
+dynamic decisions by patients about when to switch to a more aggressive treatment.
+Although the goal of RCTs is often an estimate of the population average treatment effect (ATE), the above factors induce patient selection into RCTs that generates estimates of a volunteer average treatment effect (VATE) different from the ATE. We demonstrate how to address these issues using a dynamic decision model and empirical
+methods that combine population and RCT data. We apply our method to treatment strategies for prostate cancer.</ul>
+
+</details>
+
+<p style="margin-bottom: 1rem;"></p>
 
 <h2><b>Works in Progress:</b></h2>
 <details>
 <summary>
 
-<b>"The Welfare Effects of Hospital-at-Home"</b> (Job Market Paper).
-
-</summary>
-</details>
-
-<details>
-<summary>
-
-<b>"The Noncompete Wage Premium"</b> with Brian Albrecht (ICLE) and Daniel Gilman (ICLE).
+<b>"Welfare and Efficiency in Flexible Healthcare Supply: Evidence from Hospital-at-Home"</b> (Job Market Paper).
 
 </summary>
 </details>
@@ -84,4 +89,4 @@ performance, and that firm size magnifies this informational advantage.</ul>
 
 
 <h2><b>Research Topics in Progress:</b></h2>
-Health care price transparency; employer-sponsored health insurance bargaining.
+Health care price transparency; employer-sponsored health insurance bargaining; noncompete wage premiums.
