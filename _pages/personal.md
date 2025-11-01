@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-Most of my personal time is spent either playing soccer, supporting Liverpool Football Club, or enjoying the outdoors with my [wife](https://sites.google.com/view/ryanmccord) and dog, Lambeau. 
+Most of my personal time is spent either playing soccer, supporting Liverpool Football Club, or enjoying the outdoors with my [wife](https://sites.google.com/view/ryanmccord) and dog, [Lambeau](/files/beau2.png){:target="_blank"}. 
 
 <h2><b>Some Semi-formal Workshop and Seminar Presentations:</b></h2>
 
