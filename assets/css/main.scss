@@ -40,8 +40,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Hide the footer 'Sitemap' nav section */
+/* Kill "Sitemap" footer nav across Minimal Mistakes / AcademicPages variants */
+.page__footer-nav,
 .page__footer .nav__list,
-.page__footer .nav__items {
+.page__footer .nav__items,
+.page__footer .nav__list .nav__title,
+.page__footer a[href$="/sitemap/"],
+.page__footer a[href$="/sitemap/"],
+.page__footer a[href$="/sitemap.xml"] {
   display: none !important;
+}
+
+/* If the theme prints a footer heading that says Sitemap */
+.page__footer h2,
+.page__footer h3,
+.page__footer h4 {
+  /* Only safe if you don't use headings in the footer; otherwise remove this block */
 }
