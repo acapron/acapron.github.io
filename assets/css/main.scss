@@ -41,6 +41,7 @@
 @import "print";
 
 /* Hide the footer 'Sitemap' nav section */
-.page__footer-nav {
+.page__footer .nav__list,
+.page__footer .nav__items {
   display: none !important;
 }
