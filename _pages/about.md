@@ -23,7 +23,7 @@ You can find my CV [here](/files/Andrew Capron CV.pdf){:target="_blank"}. I can 
 
   <div style="flex:0 0 auto; text-align:center;">
     <img src="/assets/images/unc_2.png" alt="UNC_Logo"
-         style="width:180px; max-width:100%; border-radius:12px;">
+         style="width:120px; max-width:100%; border-radius:12px;">
   </div>
 </div>
 
