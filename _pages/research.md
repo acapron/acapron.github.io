@@ -28,7 +28,17 @@ author_profile: true
 <h2><b>Working Papers:</b></h2>
 
 <details>
+<summary>
 
+<b>"Welfare and Efficiency in Flexible Healthcare Supply: Evidence from Hospital-at-Home"</b> (Job Market Paper).
+
+</summary>
+
+<ul><span style="font-variant: small-caps;">Abstract:</span> Increasing strains on hospital capacity in the United States have driven the need for innovative healthcare delivery models. Hospital-at-Home (HaH) programs substitute for brick-and-mortar care by providing acute, inpatient-level treatment to patients in their homes. Despite gaining traction during the Covid-19 pandemic, the economic welfare implications of HaH remain underexamined. This paper analyzes the trade-offs hospitals and patients face when choosing between HaH and traditional inpatient care. I demonstrate that HaH functions as a flexible capacity instrument whose congestion-relieving value is mediated by patient suitability and preferences. Using rich electronic health record and accounting data, together with a novel survey, I quantify the benefits and costs of HaH while controlling for selection in both hospital offering and patient acceptance. To achieve this aim, I estimate structural models of patient treatment choice and selective offer and admission policies in a unified framework in which patient willingness to receive care at home directly determines HaH’s capacity-alleviating effects. Through counterfactuals that shift HaH reimbursement, expand federal eligibility rules, and simulate system-wide health shocks, this paper characterizes the optimal implementation and regulation of HaH programs and provides a framework for modeling capacity-constrained firms with demand-mediated capacity instruments.</ul>
+
+</details>
+
+<details>
 <summary>
 
 <b><a href="/files/CHHL_InsiderCEOs.pdf" target="_blank" rel="noopener noreferrer">"Insider CEOs: Lucky or Good?"</a></b> with Barton Hamilton (WashU), Andrés Hincapié (UNC), and Noah Lyman (Warwick), <i>submitted</i>.
@@ -54,7 +64,7 @@ performance, and that firm size magnifies this informational advantage.</ul>
 <details>
 <summary>
 
-<b>"Dynamic Treatment Choices and Selection into RCTs: Evidence from Prostate Cancer"</b> with Barton Hamilton (WashU), Brian McManus (UNC), Juan Pantano (UHK), and Justin Trogdon (UNC-Gillings). 
+<b>"Dynamic Treatment Choices and Selection into RCTs: Evidence from Prostate Cancer"</b> with Barton Hamilton (WashU), Brian McManus (UNC), Juan Pantano (UHK), and Justin Trogdon (UNC). 
 
 </summary>
 
@@ -72,16 +82,14 @@ methods that combine population and RCT data. We apply our method to treatment s
 <details>
 <summary>
 
-<b>"Welfare and Efficiency in Flexible Healthcare Supply: Evidence from Hospital-at-Home"</b> (Job Market Paper).
+<b>"Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach"</b> with August Bruno (Skidmore), Valentin Verdier (UNC), and Andrew Yates (UNC).
 
 </summary>
 </details>
 
 <details>
 <summary>
-
-<b>"Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach"</b> with August Bruno (Skidmore), Valentin Verdier (UNC), and Andrew Yates (UNC).
-
+<b>"Who Benefits from Hospital-at-Home? Evidence on Heterogeneous Health Effects"</b> with Bailey Beauclair (UNC), Brian McManus (UNC) and Patrick O’Shea (UNC).
 </summary>
 </details>
 
@@ -89,4 +97,4 @@ methods that combine population and RCT data. We apply our method to treatment s
 
 
 <h2><b>Research Topics in Progress:</b></h2>
-Health care price transparency; employer-sponsored health insurance bargaining; noncompete wage premiums.
+Health care price transparency; employer-sponsored health insurance bargaining.
