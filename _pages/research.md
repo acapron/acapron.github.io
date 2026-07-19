@@ -11,7 +11,7 @@ author_profile: true
 
 <summary>
 
-<b>"Overreaction in Football Wagers"</b> with Gary Smith (Pomona), Big Data, 2018, 6(4): 262-270.
+<b>"Overreaction in Football Wagers"</b> with Gary Smith, Big Data, 2018, 6(4): 262-270.
 
 </summary>
   
@@ -34,14 +34,14 @@ author_profile: true
 
 </summary>
 
-<ul><span style="font-variant: small-caps;">Abstract:</span> Increasing strains on hospital capacity in the United States have driven the need for innovative healthcare delivery models. Hospital-at-Home (HaH) programs substitute for brick-and-mortar care by providing acute, inpatient-level treatment to patients in their homes. Despite gaining traction during the Covid-19 pandemic, the economic welfare implications of HaH remain underexamined. This paper analyzes the trade-offs hospitals and patients face when choosing between HaH and traditional inpatient care. I demonstrate that HaH functions as a flexible capacity instrument whose congestion-relieving value is mediated by patient suitability and preferences. Using rich electronic health record and accounting data, together with a novel survey, I quantify the benefits and costs of HaH while controlling for selection in both hospital offering and patient acceptance. To achieve this aim, I estimate structural models of patient treatment choice and selective offer and admission policies in a unified framework in which patient willingness to receive care at home directly determines HaH’s capacity-alleviating effects. Through counterfactuals that shift HaH reimbursement, expand federal eligibility rules, and simulate system-wide health shocks, this paper characterizes the optimal implementation and regulation of HaH programs and provides a framework for modeling capacity-constrained firms with demand-mediated capacity instruments.</ul>
+<ul><span style="font-variant: small-caps;">Abstract:</span> Increasing strains on hospital capacity in the United States have driven the need for innovative healthcare delivery models. Hospital-at-Home (HaH) programs have emerged as substitutes for brick-and-mortar care by providing acute, inpatient-level treatment to patients in their homes. Despite gaining traction during the Covid-19 pandemic, the welfare implications of HaH remain underexamined. This paper analyzes the trade-offs hospitals and patients face when allocating acute care between HaH and traditional inpatient beds. I show that HaH functions as a flexible capacity instrument whose congestion-relieving value is mediated by patient suitability and willingness to receive care at home. Using rich electronic health record, capacity, and accounting data, together with a novel patient survey, I quantify HaH’s benefits and costs while accounting for selection in hospital offers and patient acceptance. To recover the primitives needed for welfare and policy analysis, I combine reduced-form evidence on health effects with structural models of patient treatment choice and selective hospital offer behavior. The supply model formalizes the option value of scarce brick-and-mortar capacity where congestion relief depends on patient adoption. Counterfactual experiments that shift HaH reimbursement, expand eligibility rules, and simulate system-wide health shocks characterize optimal HaH implementation and regulation. More broadly, the paper provides a framework for modeling capacity-constrained firms with demand-mediated capacity instruments.</ul>
 
 </details>
 
 <details>
 <summary>
 
-<b><a href="/files/CHHL_InsiderCEOs.pdf" target="_blank" rel="noopener noreferrer">"Insider CEOs: Lucky or Good?"</a></b> with Barton Hamilton (WashU), Andrés Hincapié (UNC), and Noah Lyman (Warwick), <i>submitted</i>.
+<b><a href="/files/CHHL_InsiderCEOs.pdf" target="_blank" rel="noopener noreferrer">"Insider CEOs: Lucky or Good?"</a></b> with Barton Hamilton, Andrés Hincapié, and Noah Lyman, <i>submitted</i>.
 
 </summary>
   
@@ -64,23 +64,22 @@ performance, and that firm size magnifies this informational advantage.</ul>
 <details>
 <summary>
 
-<b>"Dynamic Treatment Choices and Selection into RCTs: Evidence from Prostate Cancer"</b> with Barton Hamilton (WashU), Brian McManus (UNC), Juan Pantano (UHK), and Justin Trogdon (UNC). 
+<b>"Dynamic Treatment Choices and Selection into RCTs: Evidence from Prostate Cancer"</b> with Barton Hamilton, Brian McManus, Juan Pantano, and Justin Trogdon. 
 
 </summary>
 
-<ul><span style="font-variant: small-caps;">Abstract:</span> We study the design and interpretation of randomized controlled trials (RCTs) that
-compare medical treatments already in wide use. These RCTs often compare treatments that vary in their curative effectiveness and side effects, plus they can involve dynamic decisions by patients about when to switch to a more aggressive treatment. Although the goal of RCTs is often an estimate of the population average treatment effect (ATE), the above factors induce patient selection into RCTs that generates estimates of a volunteer average treatment effect (VATE) different from the ATE. We demonstrate how to address these issues using a dynamic decision model and empirical methods that combine population and RCT data. We apply our method to treatment strategies for prostate cancer.</ul>
+<ul><span style="font-variant: small-caps;">Abstract:</span> We study the design and interpretation of randomized controlled trials (RCTs) that compare medical treatments already in wide use. These RCTs often compare treatments that vary in their curative effectiveness and side effects, plus they can involve dynamic decisions by patients about when to switch to a more aggressive treatment. Although the goal of RCTs is often an estimate of the population average treatment effect (ATE), the above factors induce patient selection into RCTs that generates estimates of a volunteer average treatment effect (VATE) different from the ATE. We demonstrate how to address these issues using a dynamic decision model and empirical methods that combine population and RCT data. We apply our method to treatment strategies for prostate cancer.</ul>
 
 </details>
 
 <details>
 <summary>
   
-<b>"Patient Outcomes with Hospital-at-Home in Routine Care: Evidence from a Spatial Eligibility Boundary"</b> with Bailey Beauclair (UNC), Escher Howard-Williams(UNC), Brian McManus (UNC), Carlton Moore (UNC), and Patrick O’Shea (UNC).
+<b>"Patient Outcomes with Hospital-at-Home in Routine Care: Evidence from a Spatial Eligibility Boundary"</b> with Bailey Beauclair, Escher Howard-William, Brian McManus, Carlton Moore, and Patrick O’Shea.
 
 </summary>
 
-<ul><span style="font-variant: small-caps;">Abstract:</span> Trial evidence on Hospital-at-Home (HaH) is generally favorable, but causal evidence from routine implementation remains limited because treatment reflects clinical screening, operational constraints, geographic eligibility, and patient uptake. We studied patients with HaH-eligible conditions treated at four hospitals in a large southeastern U.S. health system from September 2021 through February 2026. Using a fuzzy spatial regression discontinuity design, we exploited quasi-experimental variation generated by the program's operational catchment boundary. Patients near either side of the boundary were geographically proximate and balanced on observed characteristics but differed discontinuously in their probability of receiving HaH. Greater HaH exposure was associated with lower during-stay mortality but higher 30-day inpatient and emergency department readmissions. Emergency department visits without inpatient admission declined modestly, suggesting that the increase in downstream utilization was concentrated in inpatient returns. We found no detectable effects on subsequent mortality, length of stay, falls, or treatment costs. Although these effects are local to patients near the eligibility boundary, they suggest that acute benefits from HaH may be partly offset by greater subsequent inpatient utilization. Policymakers evaluating HaH performance should therefore be focused on the full episode of care rather than through index-stay outcomes alone.</ul>  
+<ul><span style="font-variant: small-caps;">Abstract:</span> Trial evidence on Hospital-at-Home (HaH) is generally favorable, but causal evaluation in routine care is difficult because treatment reflects clinical screening, operational constraints, geographic eligibility, and patient acceptance. We study patients with HaH-eligible conditions treated at four hospitals in a large southeastern U.S. health system from September 2021 through February 2026. Using a fuzzy spatial regression discontinuity design, we exploit the program's geographic eligibility boundary, which generated a modest but precisely estimated increase in HaH receipt. Eligibility-induced HaH exposure was associated with a substantial reduction in mortality during the index episode but a notable increase in 30-day inpatient readmissions. Emergency department visits without inpatient admission declined modestly, suggesting that the increase in downstream utilization was concentrated in returns requiring inpatient hospitalization. We found suggestive evidence that HaH receipt reduced falls, but no clear effects on post-discharge mortality, discharge disposition, length of stay, or index-episode costs. Complementary propensity-score analyses among patients offered HaH produced more favorable estimates for readmissions and substantially higher estimates for length of stay and costs. The contrast highlights the importance of treatment selection and of the distinct populations represented by observational and quasi-experimental estimands. Overall, HaH may improve outcomes during the index episode while increasing subsequent inpatient utilization, underscoring the need to evaluate performance across the full episode of care rather than through the index-stay alone.</ul>  
 
 </details>
 
@@ -90,7 +89,7 @@ compare medical treatments already in wide use. These RCTs often compare treatme
 <details>
 <summary>
 
-<b>"Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach"</b> with August Bruno (Skidmore), Valentin Verdier (UNC), and Andrew Yates (UNC).
+<b>"Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach"</b> with August Bruno, Valentin Verdier, and Andrew Yates.
 
 </summary>
 </details>
