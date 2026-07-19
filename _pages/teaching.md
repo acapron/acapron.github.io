@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Instructor:
+## Instructor
 
 **Econ445:** Industrial Organization (UNC-CH; Fall 2024) [[syllabus]](/files/capron_econ445_syllabus.pdf){:target="_blank"}
 
-## Undergraduate Teaching Assistant:
+## Teaching Assistant
 
 **Econ101:** Introduction to Economics (UNC-CH; Fall 2022)
 
@@ -19,10 +19,8 @@ author_profile: true
 
 **Econ470:** Econometrics (UNC-CH; Spring 2025)
 
-## Graduate Research Consultant: 
+**Econ847:** Graduate Empirical Industrial Organization I (UNC-CH; Fall 2025)
+
+## Graduate Research Consultant
 
 **Econ552:** Economics of Health Care Markets and Policy (UNC-CH; Fall 2025)
-
-## Graduate Teaching Assistant:
-
-**Econ847:** Empirical Industrial Organization I (UNC-CH; Fall 2025)
