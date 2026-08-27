@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Capron"
-  avatar           : "new_headshot_zoom.png" # "profile_new.png"
-  bio              : "Economics Ph.D. Candidate"
+  avatar           : "suit_shot.JPG" # "new_headshot_zoom.png"
+  bio              : "Ph.D. Candidate<br>Health and IO Economist"
   employer         : "UNC - Chapel Hill"
   location         : "Durham, NC"
   email            : "acapron@unc.edu"
