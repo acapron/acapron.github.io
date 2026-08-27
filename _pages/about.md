@@ -16,7 +16,7 @@ redirect_from:
 <div markdown="1" style="...">
 Welcome! I am a doctoral candidate in economics at the University of North Carolina - Chapel Hill with interests in health economics and industrial organization. 
 
-I will be on the Job Market in the Fall of 2026. You can find my CV [here](/files/Andrew Capron CV.pdf){:target="_blank"}. I can be reached at [acapron@unc.edu](mailto:acapron@unc.edu).
+I will be entering the Job Market in the Fall of 2026. You can find my CV [here](/files/Andrew Capron CV.pdf){:target="_blank"}. I can be reached at [acapron@unc.edu](mailto:acapron@unc.edu).
 </div>
 
   </div>
