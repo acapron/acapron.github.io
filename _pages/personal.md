@@ -7,7 +7,7 @@ author_profile: true
 
 Most of my personal time is spent either playing soccer, supporting Liverpool Football Club, or enjoying the outdoors with my [wife](https://sites.google.com/view/ryanmccord) and dog, [Lambeau](/files/beau2.png){:target="_blank"}. 
 
-<h2><b>Some Semi-formal Workshop and Seminar Presentations:</b></h2>
+<h2><b>Some semi-formal workshop and seminar presentations:</b></h2>
 
 **UNC IO Grad Student & Faculty Reading Group (Feb. 2025):** "Bidding for Talent: A Test of Conduct in a High-Wage Labor Market" (Roussille and Scuderi, 2023) [[slides]](/files/bidding_for_talent_pres.pdf)
 
