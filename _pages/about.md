@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 excerpt: "IO and Health Economist"
-title: "Welcome!"
+title: ""
 head_title: "Andrew Capron | Economist"
 author_profile: true
 redirect_from: 
@@ -14,9 +14,9 @@ redirect_from:
   <div style="flex:1; min-width:280px;">
 
 <div markdown="1" style="...">
-I am an economics doctoral candidate at the University of North Carolina - Chapel Hill with interests in health economics, empirical industrial organization, and other topics in applied microeconomics.
+I am an economics doctoral candidate at the University of North Carolina - Chapel Hill with interests in health economics and industrial organization. 
 
-I will be entering the Job Market in the Fall of 2026. You can find my CV [here](/files/Andrew Capron CV.pdf){:target="_blank"}. I can be reached at [acapron@unc.edu](mailto:acapron@unc.edu).
+I will be on the Job Market in the Fall of 2026. You can find my CV [here](/files/Andrew Capron CV.pdf){:target="_blank"}. I can be reached at [acapron@unc.edu](mailto:acapron@unc.edu).
 </div>
 
   </div>
