@@ -14,7 +14,7 @@ redirect_from:
   <div style="flex:1; min-width:280px;">
 
 <div markdown="1" style="...">
-I am an economics doctoral candidate at the University of North Carolina - Chapel Hill with interests in health economics and industrial organization. 
+Welcome! I am a doctoral candidate in economics at the University of North Carolina - Chapel Hill with interests in health economics and industrial organization. 
 
 I will be on the Job Market in the Fall of 2026. You can find my CV [here](/files/Andrew Capron CV.pdf){:target="_blank"}. I can be reached at [acapron@unc.edu](mailto:acapron@unc.edu).
 </div>
