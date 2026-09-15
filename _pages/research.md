@@ -30,35 +30,12 @@ author_profile: true
 <details>
 <summary>
 
-<b>"Welfare and Efficiency in Flexible Healthcare Supply: Evidence from Hospital-at-Home"</b> (Job Market Paper).
+<b><a href="/files/ACapron_JMP.pdf" target="_blank" rel="noopener noreferrer">"Selection, Adoption, and Efficiency in Flexible Healthcare Supply: Evidence from Hospital-at-Home"</b> (Job Market Paper).
 
 </summary>
 
-<ul><span style="font-variant: small-caps;">Abstract:</span> Increasing strains on hospital capacity in the United States have driven the need for innovative healthcare delivery models. Hospital-at-Home (HaH) programs have emerged as substitutes for brick-and-mortar care by providing acute, inpatient-level treatment to patients in their homes. Despite gaining traction during the Covid-19 pandemic, the welfare implications of HaH remain underexamined. This paper analyzes the trade-offs hospitals and patients face when allocating acute care between HaH and traditional inpatient beds. I show that HaH functions as a flexible capacity instrument whose congestion-relieving value is mediated by patient suitability and willingness to receive care at home. Using rich electronic health record, capacity, and accounting data, together with a novel patient survey, I quantify HaH’s benefits and costs while accounting for selection in hospital offers and patient acceptance. To recover the primitives needed for welfare and policy analysis, I combine reduced-form evidence on health effects with structural models of patient treatment choice and selective hospital offer behavior. The supply model formalizes the option value of scarce brick-and-mortar capacity where congestion relief depends on patient adoption. Counterfactual experiments that shift HaH reimbursement, expand eligibility rules, and simulate system-wide health shocks characterize optimal HaH implementation and regulation. More broadly, the paper provides a framework for modeling capacity-constrained firms with demand-mediated capacity instruments.</ul>
+<ul><span style="font-variant: small-caps;">Abstract:</span> Hospital capacity is costly to expand, and the value of an available inpatient bed varies with congestion. Hospital-at-Home (HaH) provides inpatient-level care in a patient's residence and can release a brick-and-mortar bed without requiring permanent capacity expansion. However, this release is only realized when the hospital offers HaH and the patient accepts. I study how these decisions determine the use and value of flexible hospital capacity. Using clinical, accounting, census, and staffing data from four hospitals, supplemented by a novel patient survey, I jointly estimate patient acceptance and hospital offers, accounting for persistent patient preferences and endogenous offer selection. Patients differ systematically in their willingness to receive home care, and hospitals target likely adopters while balancing financial returns, clinical needs, and capacity relief. At median occupancy levels, the estimated gross capacity-relief component is equivalent to between $830 and $1,200 per discounted bed-day at the two largest hospitals. A counterfactual 10 percent increase in HaH reimbursement generates approximately 11,300 additional bed-days freed. Induced transfers increase predicted treatment costs, making the hospital's net financial gain dependent upon the realized use of released capacity. These findings show how consumer adoption shapes the deployment of flexible supply and why capacity relief can motivate its use even without treatment-cost savings.</ul>
 
-</details>
-
-<details>
-<summary>
-
-<b><a href="/files/CHHL_InsiderCEOs.pdf" target="_blank" rel="noopener noreferrer">"Insider CEOs: Lucky or Good?"</a></b> with Barton Hamilton, Andrés Hincapié, and Noah Lyman, <i>submitted</i>.
-
-</summary>
-  
-<ul><span style="font-variant: small-caps;">Abstract:</span> Why do internally promoted CEOs outperform external hires? We answer this question
-using a dynamic selection model of CEO hiring and turnover. Firm performance is persistent
-and boards gradually learn about CEO quality, facing different uncertainty when hiring internally
-or externally. We estimate the model using a matched CEO-firm panel (1995-2019) of S&P 1500
-firms. After accounting for endogenous turnover, performance, and hiring decisions, the key mechanism
-generating the performance gap is information. Boards’ uncertainty over insider candidates
-is roughly half that of outsiders, resulting in better selected insider CEOs and a significant difference
-in executive quality ex-post, despite little ex-ante difference between insiders and outsider
-candidates. Hence, long-tenured insider CEOs tend to be “good” while outsiders tend to be
-“lucky.” Overall, our results show that information, not innate ability, explains insiders’ superior
-performance, and that firm size magnifies this informational advantage.</ul>
-
-<img src="/files/ceos1.png" style="width: 35%; height: auto;" alt="">
- 
 </details>
 
 <details>
@@ -69,7 +46,20 @@ performance, and that firm size magnifies this informational advantage.</ul>
 </summary>
 
 <ul><span style="font-variant: small-caps;">Abstract:</span> We study the design and interpretation of randomized controlled trials (RCTs) that compare medical treatments already in wide use. These RCTs often compare treatments that vary in their curative effectiveness and side effects, plus they can involve dynamic decisions by patients about when to switch to a more aggressive treatment. Although the goal of RCTs is often an estimate of the population average treatment effect (ATE), the above factors induce patient selection into RCTs that generates estimates of a volunteer average treatment effect (VATE) different from the ATE. We demonstrate how to address these issues using a dynamic decision model and empirical methods that combine population and RCT data. We apply our method to treatment strategies for prostate cancer.</ul>
+                                                    
+</details>
 
+<details>
+<summary>
+
+<b><a href="/files/CHHL_InsiderCEOs.pdf" target="_blank" rel="noopener noreferrer">"What do Boards Know? The Value of CEO Selection and Monitoring"</a></b> with Barton Hamilton, Andrés Hincapié, and Noah Lyman, <i>submitted</i>.
+
+</summary>
+  
+<ul><span style="font-variant: small-caps;">Abstract:</span> How much do boards know about their CEOs, and what is that information worth? We estimate a dynamic model of CEO succession in which boards learn about incumbent quality from noisy performance and screen internal candidates before promoting them. Boards' information is valuable but limited: screening resolves a third of the uncertainty about internal candidates, and a year of performance 3.8 percent of that about the incumbent. What boards know is worth 4.6 percent of firm value at selection and 4.1 percent at monitoring, and full information would raise firm value by 19 percent. Insiders' information advantage explains both why two-thirds of new CEOs come from within and why these insiders outperform at appointment.</ul>
+
+<!-- <img src="/files/ceos1.png" style="width: 35%; height: auto;" alt=""> commented out for now -->
+ 
 </details>
 
 <details>
