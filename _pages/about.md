@@ -14,9 +14,11 @@ redirect_from:
   <div style="flex:1; min-width:280px;">
 
 <div markdown="1" style="...">
-Welcome! I am a doctoral candidate in economics at the University of North Carolina - Chapel Hill with interests in health economics and industrial organization. 
+Welcome! I am a doctoral candidate in economics at the University of North Carolina at Chapel Hill, with research interests in health economics and industrial organization.
 
-I will be entering the Job Market in the Fall of 2026. You can find my CV [here](/files/Andrew Capron CV.pdf){:target="_blank"}. I can be reached at [acapron@unc.edu](mailto:acapron@unc.edu).
+I will be on the job market in Fall 2026. My [job market paper](/files/ACapron_JMP.pdf){:target="_blank"} examines how hospital offers and patient acceptance shape the use and economic value of flexible inpatient capacity through Hospital-at-Home.
+
+You can find my [CV here](/files/Andrew%20Capron%20CV.pdf){:target="_blank"}. I can be reached at [acapron@unc.edu](mailto:acapron@unc.edu).
 </div>
 
   </div>
