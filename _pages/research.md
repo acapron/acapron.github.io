@@ -42,11 +42,11 @@ author_profile: true
 <details>
 <summary>
 
-<b>"Dynamic Treatment Choices and Selection into RCTs: Evidence from Prostate Cancer"</b> with Barton Hamilton, Brian McManus, Juan Pantano, and Justin Trogdon. 
+<b><a href="/files/CHMPT_VATE.pdf" target="_blank" rel="noopener noreferrer">"Dynamic Treatment Choices and Selection into RCTs: Evidence from Prostate Cancer"</a></b> with Barton Hamilton, Brian McManus, Juan Pantano, and Justin Trogdon. 
 
 </summary>
 
-<ul><span style="font-variant: small-caps;">Abstract:</span> We study the design and interpretation of randomized controlled trials (RCTs) that compare medical treatments already in wide use. These RCTs often compare treatments that vary in their curative effectiveness and side effects, plus they can involve dynamic decisions by patients about when to switch to a more aggressive treatment. Although the goal of RCTs is often an estimate of the population average treatment effect (ATE), the above factors induce patient selection into RCTs that generates estimates of a volunteer average treatment effect (VATE) different from the ATE. We demonstrate how to address these issues using a dynamic decision model and empirical methods that combine population and RCT data. We apply our method to treatment strategies for prostate cancer.</ul>
+<ul><span style="font-variant: small-caps;">Abstract:</span> We study how voluntary participation and treatment protocols affect the interpretation of randomized controlled trials (RCTs) comparing existing medical treatments. When patients can obtain their preferred treatment outside the trial, those closer to indifference between treatment strategies are more likely to participate. When treatment is dynamic, protocols governing when patients may switch from their initially assigned treatment affect both enrollment and potential outcomes. We develop and estimate a dynamic model of trial participation and treatment choices using aggregate data on volunteers and eligible non-volunteers from a prostate cancer study. Selection operates primarily through patients' preferences over treatment side effects rather than differences in treatment effectiveness. Under the observed protocol, estimated volunteer and population treatment effects are similar for 10-year prostate cancer mortality but differ for metastasis and 15-year mortality. Alternative switching protocols change both participation and treatment effects.</ul>
                                                     
 </details>
 
@@ -57,7 +57,7 @@ author_profile: true
 
 </summary>
   
-<ul><span style="font-variant: small-caps;">Abstract:</span> How much do boards know about their CEOs, and what is that information worth? We estimate a dynamic model of CEO succession in which boards screen internal and external candidates and monitor the incumbent’s evolving quality. Boards’ information is valuable but limited: screening resolves about sixty percent of the uncertainty about internal candidates but only six percent about external ones. Relative to uninformed hiring and firing, this information raises firm value by10.6 and 7.7 percent, respectively. Full information would add another 23 percent. Insiders' performance advantage at appointment reflects what boards know, not better candidate pools.</ul>
+<ul><span style="font-variant: small-caps;">Abstract:</span> How much do boards know about their CEOs, and what is that information worth? We estimate a dynamic model of CEO succession in which boards screen internal and external candidates and monitor the incumbent's evolving quality. Boards' information is valuable but limited: screening resolves about sixty percent of the uncertainty about internal candidates but only six percent about external ones. Relative to uninformed hiring and firing, this information raises firm value by 10.6 and 7.7 percent, respectively. Full information would add another 23 percent. Insiders' performance advantage at appointment reflects what boards know, not better candidate pools.</ul>
 
 <!-- <img src="/files/ceos1.png" style="width: 35%; height: auto;" alt=""> commented out for now -->
  
