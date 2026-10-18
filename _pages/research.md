@@ -57,7 +57,7 @@ author_profile: true
 
 </summary>
   
-<ul><span style="font-variant: small-caps;">Abstract:</span> How much do boards know about their CEOs, and what is that information worth? We estimate a dynamic model of CEO succession in which boards screen internal and external candidates and monitor the incumbent. Boards' information is valuable but limited: screening resolves about sixty percent of the uncertainty about an internal candidate but only six percent about an external one. Relative to uninformed hiring, this information raises firm value by 9.6 percent; relative to uninformed firing, by 7.2 percent. Full information would add another 23 percent. Insiders' advantage at appointment reflects what boards know, not better candidate pools.</ul>
+<ul><span style="font-variant: small-caps;">Abstract:</span> How much do boards know about their CEOs, and what is that information worth? We estimate a dynamic model of CEO succession in which boards screen internal and external candidates and monitor the incumbent’s evolving quality. Boards’ information is valuable but limited: screening resolves about sixty percent of the uncertainty about internal candidates but only six percent about external ones. Relative to uninformed hiring and firing, this information raises firm value by10.6 and 7.7 percent, respectively. Full information would add another 23 percent. Insiders' performance advantage at appointment reflects what boards know, not better candidate pools.</ul>
 
 <!-- <img src="/files/ceos1.png" style="width: 35%; height: auto;" alt=""> commented out for now -->
  
