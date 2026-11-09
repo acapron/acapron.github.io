@@ -46,6 +46,8 @@ author_profile: true
 </summary>
 
 <ul><span style="font-variant: small-caps;">Abstract:</span> We study how voluntary participation and treatment protocols affect the interpretation of randomized controlled trials (RCTs) comparing existing medical treatments. When patients can obtain their preferred treatment outside the trial, those closer to indifference between treatment strategies are more likely to participate. When treatment is dynamic, protocols governing when patients may switch from their initially assigned treatment affect both enrollment and potential outcomes. We develop and estimate a dynamic model of trial participation and treatment choices using aggregate data on volunteers and eligible non-volunteers from a prostate cancer study. Selection operates primarily through patients' preferences over treatment side effects rather than differences in treatment effectiveness. Under the observed protocol, estimated volunteer and population treatment effects are similar for 10-year prostate cancer mortality but differ for metastasis and 15-year mortality. Alternative switching protocols change both participation and treatment effects.</ul>
+
+<img src="/files/Figure8.pdf" style="width: 35%; height: auto;" alt="">
                                                     
 </details>
 
